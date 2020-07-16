@@ -1,0 +1,10 @@
+{
+
+    "env": {
+        "MONGO_USER" : "dev",
+        "MONGO_PASSWORD": "natalija09",
+        "MONGO_DB": "events-react-dev",
+        "MONGO_HOST": "cluster0-ppcd0.mongodb.net"
+
+    }
+}
